@@ -1,0 +1,8 @@
+{
+  "name": "spike-pits-times-proxy",
+  "description": "Proxy for localhost access to DO server",
+  "engine": "node 0.6.x",
+  "dependencies": {
+    "http-proxy": "^1.15.1"
+  }
+}
